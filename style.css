@@ -1,0 +1,20 @@
+.test1 {
+    color: orange;
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+    margin: 0 auto;
+}
+
+.page-header {
+    text-align: center;
+}
+
+.page-header2 {
+    background-image: url('https://placekitten.com/600/340');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
